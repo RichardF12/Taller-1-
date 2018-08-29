@@ -1,0 +1,28 @@
+/*.content{
+    width: 70%;
+    max-width: 700px;
+    min-width: 500px;
+    height: 200px;
+    background: green;  
+}*/
+
+body{
+    background: #767de4;
+}
+
+.panel{
+    background: white;
+    padding: 3em;
+    border: solid black;
+    margin: 20px 120px;
+    display: block;
+}
+
+.header{
+
+}
+
+h1{
+    font-size: 1.3cm;
+    padding: 0.5em;
+}
